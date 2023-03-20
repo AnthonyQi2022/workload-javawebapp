@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: workload-javawebapp
+  annotations:
+    github.com/project-slug: AnthonyQi2022/workload-javawebapp
+spec:
+  type: other
+  lifecycle: unknown
